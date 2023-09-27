@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Morta1DieTw1Ce
 - 👀 I’m interested in pentesting and game devlopment
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning web exploitation and c
 - 📫 How to reach me: my gmail pycodeinsights@gmail.com
 
 <!---
