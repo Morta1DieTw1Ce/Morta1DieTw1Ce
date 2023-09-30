@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Morta1DieTw1Ce
 - 👀 I’m interested in pentesting and game devlopment
 - 🌱 I’m currently learning web exploitation and c
-- 📫 How to reach me: my gmail pycodeinsights@gmail.com
+- 📫 How to reach me: my gmail
+- Morta1DieTw1Cegmail.com
 
 <!---
 Morta1DieTw1Ce/Morta1DieTw1Ce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
